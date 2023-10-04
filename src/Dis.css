@@ -1,0 +1,14 @@
+.show{
+   
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+}
+.info{
+    
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+  
+}
